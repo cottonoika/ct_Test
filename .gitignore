@@ -1,0 +1,56 @@
+# アップデートファイル作業用ディレクトリ
+/updates
+/updates/*
+
+# macOSシステムファイル
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Sparkle関連の一時ファイル
+*.delta
+*.binarydelta
+*.profraw
+*.xcarchive
+
+# バックアップファイル
+*.bak
+*.backup
+*~
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+*.temp
+.*.swp
+.*.swo
+
+# ビルド関連
+build/
+DerivedData/
+*.build/
+
+# Xcodeプロジェクト（必要な場合は除外を解除）
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# 証明書関連（セキュリティのため）
+*.cer
+*.p12
+*.key
+*.pem
+*.der
+keys/
