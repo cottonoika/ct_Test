@@ -4,14 +4,14 @@
         <title>ChronoTrace</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Thu, 27 Mar 2025 14:51:59 +0900</pubDate>
+            <pubDate>Thu, 27 Mar 2025 15:17:09 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://cottonoika.github.io/ct_Test/ChronoTrace-0.1.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://cottonoika.github.io/ct_Test/ChronoTrace-0.1.0.dmg" length="5644323" type="application/octet-stream" sparkle:edSignature="Wqw4RruFUgUUHkUIr4BRubu+htqQRAkWdP6a4Fpq/2mu1l9SaUkQDocTkQdoClC1a/6bMuP0DXs3/CrDHZVMAw=="/>
+            <enclosure url="https://cottonoika.github.io/ct_Test/ChronoTrace-0.1.0.dmg" length="5645176" type="application/octet-stream" sparkle:edSignature="Pm1vsQ2Nz8yLtTtJGJZsDssKJc7USjaD0mPTPiduJThKb1BXOCsAoPRYJ7xChbPDUwVbLdPxlmOZo4zkNv8nBw=="/>
             <sparkle:deltas>
-                <enclosure url="https://cottonoika.github.io/ct_Test/ChronoTrace2-1.delta" sparkle:deltaFrom="1" length="136490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864640" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="F/ysMt2i2toyWbHCymsqB25xtR0UD/Zv3bnB68cV6XNRFUmsHaFpy8OkWZboakc6phWirfKxCSi5T3XMZf0JDA=="/>
+                <enclosure url="https://cottonoika.github.io/ct_Test/ChronoTrace2-1.delta" sparkle:deltaFrom="1" length="2142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864640" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uBWTeWavbW6MOP8uNYnKUCohE59vEex+k68n8nPpOYseQ4QsHRxi0Cmug+LA3Ri2wvfEnQY2EGEegKMXDpOyBQ=="/>
             </sparkle:deltas>
         </item>
         <item>
