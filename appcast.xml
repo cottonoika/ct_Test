@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChronoTrace</title>
+        <item>
+            <title>0.0.0</title>
+            <pubDate>Thu, 27 Mar 2025 14:24:45 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://cottonoika.github.io/ct_Test/ChronoTrace-0.0.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://cottonoika.github.io/ct_Test/ChronoTrace-0.0.0.dmg" length="5644202" type="application/octet-stream" sparkle:edSignature="P15OMA+MOSgoAXiQZDwFWTlJwsQ7tT8VWJfoGMF8MuX7PO2qwJROv4csnGvD5aekJVM9V+0mih57VsUb4ONNBA=="/>
+        </item>
+    </channel>
+</rss>
